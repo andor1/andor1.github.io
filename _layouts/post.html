@@ -11,7 +11,12 @@ layout: default
 
 
   <div class="tags">
-    {{ page.tags }}
+    <ul>
+      {% for tag in page.tags %}
+        <li> {{tag}} </li>
+        {% if forloop.last == false %},{% endif %}
+      {% endfor %}
+    </ul>
   </div>
 
   <div class="entry">
