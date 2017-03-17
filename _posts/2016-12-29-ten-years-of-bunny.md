@@ -3,7 +3,7 @@ layout: post
 title: The Year In Review
 excerpt: This Bunny Comic *2006 to 2016*!
 tag:
-  - comics
+  - comic
   - life
   - art
 
