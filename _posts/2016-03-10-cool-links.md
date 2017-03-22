@@ -3,7 +3,7 @@ layout: post
 title: Links of the week March 7th through 11th
 excerpt: no no no no no
 tag:
-  - Scotch
+  - scotch
   - life
 ---
 

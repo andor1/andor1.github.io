@@ -4,7 +4,7 @@ title: Public Static at Amsterdam Bar & Hall
 excerpt: Show announcement and flyer art
 tag:
   - art
-  - Public Static
+  - public static
   - poster
   - design
 ---

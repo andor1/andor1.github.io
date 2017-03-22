@@ -3,9 +3,9 @@ layout: post
 title: NASA posts Apollo 11 Source Code
 excerpt: Programmers are funny...
 tag:
-  - SPACE
-  - NASA
-  - Funny
+  - space
+  - nasa
+  - funny
 ---
 
 I saw this over at [512pixels.com](http://512pixels.net/2016/07/apollo-11-github/), which is a favorite of mine. Just had to share.

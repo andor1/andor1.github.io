@@ -3,8 +3,8 @@ layout: post
 title: C is for C'mon this is cool
 excerpt: Cookie Monster plugs for Apple
 tag:
-  - Apple
-  - Cookie Monster
+  - apple
+  - cookie monster
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wk5qT_814xM" frameborder="0" allowfullscreen></iframe>

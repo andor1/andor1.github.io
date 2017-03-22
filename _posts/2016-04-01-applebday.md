@@ -3,8 +3,8 @@ layout: post
 title: Apple's 40th Birthday
 excerpt: You don't look your age.
 tag:
-  - Apple
-  - Mac
+  - apple
+  - mac
 ---
 
 ![image]({{ site.url }}/images/2016-04-01-applebday.png)

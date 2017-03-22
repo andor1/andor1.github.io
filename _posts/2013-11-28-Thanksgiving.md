@@ -4,9 +4,9 @@ title: Thanksgiving
 excerpt: A holiday sketch for you!
 tag:
   - life
-  - Thanksgiving
+  - thanksgiving
   - family
-  - comic
+  - comics
 ---
 
 # Happy Thanksgiving!!!! #

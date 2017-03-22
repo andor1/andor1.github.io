@@ -4,9 +4,9 @@ title: Merry Christmas!
 excerpt: A holiday sketch for you!
 tag:
   - life
-  - Christmas
+  - christmas
   - family
-  - comic
+  - comics
 ---
 
 # Merry Christmas!!!! #

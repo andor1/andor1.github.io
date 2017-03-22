@@ -3,9 +3,9 @@ layout: post
 title: Steve Jobs
 excerpt: 5 years on...
 tag:
-  - Apple
-  - Mac
-  - Steve Jobs
+  - apple
+  - mac
+  - steve jobs
 ---
 
 Just a couple links.

@@ -3,10 +3,10 @@ layout: post
 title: Bunny Comic! ...and some cool links.
 excerpt: Happy Thanksgiving everyone!
 tag:
-  - DESIGN
-  - Cool Links
-  - Apple
-  - comic
+  - design
+  - cool links
+  - apple
+  - comics
 ---
 
 ![image]({{ site.url }}/comics/000006-20161123-aftermath.png)

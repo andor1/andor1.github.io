@@ -3,8 +3,8 @@ layout: post
 title: Happy Holidays!
 excerpt: From WADDC to you!
 tag:
-  - comic
-  - Holidays
+  - comics
+  - holidays
 ---
 
 ![image]({{ site.url }}/comics/000007-20161223-happyholidays.png)

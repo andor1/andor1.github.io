@@ -4,7 +4,7 @@ title: Bunny Comic - Kids Books
 excerpt: If you give a pun an opportunity...
 tag:
   - art
-  - comic
+  - comics
 ---
 
 ![image]({{ site.url }}/comics/000004-20151008-Kids-Books.png)

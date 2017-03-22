@@ -3,7 +3,7 @@ layout: post
 title: Second Thanksgiving
 excerpt: Superbowl sketch
 tag:
-  - comic
+  - comics
   - art
   - life
 ---
