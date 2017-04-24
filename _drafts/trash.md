@@ -20,10 +20,11 @@ I spent the better part of the last couple weeks trying to fix a very old gas dr
 
 I hated putting that dryer on the curb. I'd rather fix the things I own and keep them running as long as possible. It's not just economical, it's good for the environment. Plus, if the kids are around to help, they pick up new skills.
 
-But [this][05a4bd0b] is something entirely different. Effectively, the company is telling you that you do not own their product. You don't have rights to it. You've "licensed" the software that the tractor runs on. Farmers have always been do-it-yourself people, out of sheer necessity. As the corporate farms close in on them on all sides, now they're being told they don't own their equipment. 
+But [this][05a4bd0b] is something entirely different. Effectively, the company is telling you that you do not own their product. You don't have rights to it. You've "licensed" the software that the tractor runs on. Farmers have always been do-it-yourself people, out of sheer necessity. As the corporate farms close in on them on all sides, now they're being told they don't own their equipment.
 
 - Doran
 
 
 https://repair.org/
 http://minnesota.repair.org/?utm_medium=organic&utm_source=ifixit#tellstory
+http://www.npr.org/sections/alltechconsidered/2015/08/17/432601480/diy-tractor-repair-runs-afoul-of-copyright-law
