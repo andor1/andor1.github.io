@@ -10,6 +10,8 @@ tag:
 
 ![image]({{ site.url }}/images/2017-05-20-sarah-grad.jpg)
 
-**YOU DID IT SARAH**
+**YOU DID IT SARAH!**
+
+We are all so proud of you!
 
 - Doran
