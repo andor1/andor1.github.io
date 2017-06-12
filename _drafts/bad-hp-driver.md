@@ -20,9 +20,5 @@ tag:
 
   [d82c6ed4]: http://www.shed-works.co.uk/image/160483828350 "shed-works.co.uk"
 
-[Also from Boingboing.net - Well, this is going well...][30d99baa]
-
-
-  [30d99baa]: http://boingboing.net/2017/05/10/bad-new-poll-for-trump-u-s-v.html "RESIST"
 
 - Doran
