@@ -24,8 +24,7 @@ Just read this article. [This is incredibly bad.][05a4bd0b]
 
   [05a4bd0b]: http://boingboing.net/2017/04/22/drm-eschatology.html "John Deere just told the copyright office that only corporations can own property, humans can only license it"
 
-![  For Real?](/images/2017/06/for-real.gif)
-
+!["For Real???"](images/for-real.gif)
 
 [This][05a4bd0b] is something entirely different. Effectively, the company is telling you that you do not own their product. You don't have rights to it. You've "licensed" the software that the tractor runs on. Farmers have always been do-it-yourself people, out of sheer necessity. As the corporate farms close in on them on all sides, now they're being told they don't own their equipment.
 
