@@ -9,8 +9,8 @@
     5. Music
     6. Art
     7. Bunny Comic  
-    8. Politics 
-  5. About
+    8. Politics
+  5. About / Contact
 
 
 
