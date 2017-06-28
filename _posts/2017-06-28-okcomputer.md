@@ -15,6 +15,8 @@ It’s been 20 years since the release of **OK COMPUTER**. The opening guitar pa
 
 Time to revisit a classic.
 
-[RADIOHEAD.COM | DEAD AIR SPACE](http://www.radiohead.com/deadairspace)
+[RADIOHEAD.COM][2755f26c]
+
+  [2755f26c]: http://www.radiohead.com/deadairspace "DEAD AIR SPACE"
 
 *Doran*
