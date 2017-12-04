@@ -18,10 +18,8 @@ We're being asked to trust the ISP's to regulate themselves, despite the fact th
 
 December 14th is rapidly approaching. Call your representatives. [File with the FCC](https://www.fcc.gov/ecfs/search/proceedings?q=name:((17-108). Tweet. Do whatever you can to make your voice heard.
 
-{% highlight %}
   <a class=”embedly-card” href=”https://www.vpnmentor.com/wp-content/uploads/2017/07/vpnMentor_Banner_BlackBlue.png”>Card</a>
   <script async src=”//cdn.embedly.com/widgets/platform.js” charset=”UTF-8″></script>
-{% endhighlight %}
 
 **LINKS**
 - [Click here for info on how Net Neutrality affects you][9f6ed1bb]
