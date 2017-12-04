@@ -19,11 +19,12 @@ We're being asked to trust the ISP's to regulate themselves, despite the fact th
 December 14th is rapidly approaching. Call your representatives. [File with the FCC.](http://gofccyourself.com/) Tweet. Do whatever you can to make your voice heard.
 
 **LINKS**
+
+![SUPPORT NET NEUTRALITY](https://www.vpnmentor.com/wp-content/uploads/2017/07/vpnMentor_Banner_BlackBlue.png)
+
 - [Click here for info on how Net Neutrality affects you][9f6ed1bb]
 
   [9f6ed1bb]: https://www.vpnmentor.com/blog/save-date-save-net-neutrality/ "www.vpnmentor.com"
-  -
-![SUPPORT NET NEUTRALITY](https://www.vpnmentor.com/wp-content/uploads/2017/07/vpnMentor_Banner_BlackBlue.png)
 
 - [FCC - COMCAST Deal](https://www.techhive.com/article/3239127/streaming-services/the-demise-of-net-neutrality-isnt-the-biggest-threat-to-cord-cutting.html)
 
