@@ -9,7 +9,7 @@ tag:
 
 ---
 
-![image]({{ site.url }}/images/2016-02-10-frankenstrat.png)
+![image]({{ site.url }}/images/2017-12-21-goodbyeadobe.png)
 
 **Dear Adobe,**
 
@@ -42,10 +42,3 @@ So, I wish you well. I'm sure our bezier paths will cross again someday. I hope 
 Sincerely,
 
 Doran
-
-*Long sigh*
-
-Dear Evernote...
-
-
-- Doran
