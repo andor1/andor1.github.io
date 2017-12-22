@@ -42,3 +42,7 @@ So, I wish you well. I'm sure our bezier paths will cross again someday. I hope 
 Sincerely,
 
 Doran
+
+*Note: In the interest of full disclosure, the image at the top of this post was created in [Affinity Designer][b7e619b5] by Serif, which I have found to be an excellent replacement for Adobe Illustrator.*
+
+  [b7e619b5]: https://affinity.serif.com/en-us/ "Affinity by Serif"
