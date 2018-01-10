@@ -29,7 +29,7 @@ Things were great for a long time. Then, it got cloudy.
 
 We knew where we stood once. I bought your software. I owned your software. I used your software to create art. Then you'd come up with something new and release a new version, and if it was good enough I'd buy the upgrade. And we'd repeat the cycle.
 
-Now though, it's different. You've become controlling.... nagging. You want me to put all my work on your cloud. Try out this app. Load me on your phone and ipad. Update update update. Your hardware isn't supported anymore, but I let you update the app anyway and now your file won't open. Sync issue. You're logged out. Did you want Stock photos? No? Here's some goddamn stock photos anyway. Why aren't you connected to the internet right now, I can't see what you're doing.
+Now though, it's different. You've become controlling.... nagging. You want me to put all my work on your cloud. Try out this app. Load me on your phone and iPad. Update update update. Your hardware isn't supported anymore, but I let you update the app anyway and now your file won't open. Sync issue. You're logged out. Did you want Stock photos? No? Here's some goddamn stock photos anyway. Why aren't you connected to the internet right now, I can't see what you're doing.
 
 I turned off the notifications, so you started emailing me. Then, when I ran the updates you wanted, notifications were turned back on.
 
@@ -44,5 +44,17 @@ Sincerely,
 Doran
 
 *Note: In the interest of full disclosure, the image at the top of this post was created in [Affinity Designer][b7e619b5] by Serif, which I have found to be an excellent replacement for Adobe Illustrator.*
+
+**UPDATE 01/10/2018:** Since this article, I discovered a few unsavory details about cancelling my subscription. I had amassed a large about of illustrations in Adobe Draw, which is an excellent app, but exporting all of them at once is not an option. You can export a project folder, but it only saves the image thats on top and only as a JPEG or PNG. Thats not ideal.
+
+Second, I was expecting them to react to my cancellation request with a counter offer to stay. 90 days free. I get that. What I wasn't expecting was that if I still proceeded with the cancellation, I would be dinged for approximately $80, roughly half of what I'd be paying to reach the end of my subscription. Should have seen that coming...
+
+So. Even though I'll most likely not need to fire up any of the Adobe Products, guess I'll be keeping the subscription alive for a while yet.
+
+I'll update then.
+
+Sincerely,
+
+Doran
 
   [b7e619b5]: https://affinity.serif.com/en-us/ "Affinity by Serif"
