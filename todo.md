@@ -3,14 +3,9 @@
 1. Make new header / footer.
 1. Fix "tags" in all the posts. Either all uppercase or all lowercase.
   * COMPLETE - All tags are now lowercase. 2017/03/21
-2. New nav list:
-  3. Home
-  4. Blog
-    5. Music
-    6. Art
-    7. Bunny Comic  
-    8. Politics
-  5. About / Contact
+1. waddc.com is currently registered to a chinese company, but their registration is set to expire soon. Maybe I should snatch that up? It would certainly be good for the branding. 
+
+
 
 
 
