@@ -30,10 +30,18 @@
 -----
 
 1. Feels like Rain - *C*
+  - Buddy Guy?
+  - Vamps between C and F during the verse. Chorus goes to E, Am, G, F.
 2. Mother Nature - *E*
+  - Koko Taylor
+  - Long I, stomp.
 3. In the Mood - *E*
+  - Glenn Miller?
 4. Little Red Rooster - *A*
+  - Intro lick in A, vocals start on the 4.
 5. Hoochie Coochie Man - *E*
+  - Muddy Waters
+  - Stomp. Long 1
 6. Sundown - *A*
 7. You Shook Me - *E*
 8. How blue can you get - *D*
