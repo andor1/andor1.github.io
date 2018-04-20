@@ -58,6 +58,7 @@
 11. Champagne & Reefer - *G*
   - Muddy Waters
   - Long 1, follows vocal.
+  - Old school blues. 
 
 # Medium Blues
 -----
@@ -70,7 +71,10 @@
 3. Wang Dang Doodle - *C*
   - Stays on the 1. Same riff throughout.
 4. What Came First - *B*
+  - Not sure what this song is, can't seem to find it.
 5. Baby What You Want - *E*
+  - Etta James?
+  -
 6. Night Time is the Right Time - *D*
 7. Rock Me Baby - *C*
 8. Whole Lotta Shakin - *B flat*
@@ -81,7 +85,12 @@
   - Stevie Ray Vaughn
   - Tremolo, Vibrato effect for this one.
 11. Voodoo Woman - *B Flat*
+  - Koko Taylor
+  - Funky upbox groove.
+  - Durning some verses, stay on the 1 longer. Watch Bambi.
 12. I Got All You Need - *B Flat*
+  - Willie Dixon / Koko Taylor
+  - Medium Upbox / Horn parts lean into the correct pitch.
 13. She Caught The Katy - *B*
   - Taj Mahal?
   - No 7th chords. Downstokes.
@@ -89,21 +98,27 @@
   - BRIDGE Pattern: E / B / A / F#
 14. Hound Dog - *D*
 15. Me & My Car - *C*
+  - Lonnie Mack?
+  -
 16. Evil Gal Blues - *C*
+  - Aretha!
+  - Shuffle, 1,4,6,5 pattern.
 17. Smoke Stack Lightning - *???*
+  - Howlin Wolf
+  - Stays on the 1.
+  - Most likely in E.
 18. Mercury Blues - *E*
+  - 1, 4, 6, 5, 1 turnaround.
 19. Never Make Your Move - *F*
+  - BB King
+  - Funky, vamps between F and B. Goes down to the G, then up to B for the turn around.
 20. Kiss - *E*
-  - Lucy Peterson
+  - Lucy Peterson? Can't find this one anywhere either...
 21. Boom Boom - *E*
+  - John Lee Hooker
 22. Meet Me With Your Black Drawers On - *???*
+  - Shuffle
 23. I Just Want To Make Love To You - *B flat*
-24. Yellow Moon - *C minor*
-25. Take Me To The River - *E*
-26. Love & Happiness - *G minor*
-27. Chain Of Fools - *A minor*
-28. Heard It Through The Grapevine - *B*
-29. At Last - *F*
+  - Etta James
+  - Doesn't go to the 5 until last part of chorus
 30. Unchain My Heart - *C minor*
-31. How Sweet It Is - *???*
-32. Let's Go Get Stoned - *C*
