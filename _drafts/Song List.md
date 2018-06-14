@@ -4,10 +4,12 @@
 1. All Right Ok - *F*
   - Ella Fitzgerald
   - Big swing, shuffle. Piano part usually goes and decends. Key change?
+  - https://www.youtube.com/watch?v=7D2hHBNn_ws
 2. Every Day I have the Blues - *F*
   - BB King.
   - How are we doing the intro on this?
   - Swing, shuffle. 1-4-5-6-5-1
+  - https://www.youtube.com/watch?v=xtwUqXCQvAI
 3. Hey Bartender - *E*
   - Koko Taylor version
   - Long I, sync on the IV and V. Big hits.
@@ -35,6 +37,7 @@
   - Buddy Guy?
   - Vamps between C and F during the verse. Chorus goes to E, Am, G, F.
   - Opens on the F, goes down to the C.
+  - https://www.youtube.com/watch?v=QButLzJB5SI
 2. Mother Nature - *E*
   - Koko Taylor
   - Long I, stomp.
@@ -106,6 +109,7 @@
   - No 7th chords. Downstokes.
   - VERSE Pattern: B, F#, B / B, F#, B / B / E, Fm / B, F#, B
   - BRIDGE Pattern: E / B / A / F#
+  - https://www.youtube.com/watch?v=8_mcvifJ5N0
 14. Hound Dog - *D*
   - Vocal starts it
   - 50's rock.
@@ -128,7 +132,7 @@
   - Luck Peterson
   - Prince Cover
   - Stomp, 1-4-5. Slide, if you wanna.
-  - Follow the vocal. 
+  - Follow the vocal.
 21. Boom Boom - *E*
   - John Lee Hooker
 22. Meet Me With Your Black Drawers On - *???*
