@@ -4,6 +4,7 @@
 1. All Right Ok - *F*
   - Ella Fitzgerald
   - Big swing, shuffle. Piano part usually goes and decends. Key change?
+  - Vocal intro
   - https://www.youtube.com/watch?v=7D2hHBNn_ws
 2. Every Day I have the Blues - *F*
   - BB King.
@@ -13,22 +14,32 @@
 3. Hey Bartender - *E*
   - Koko Taylor version
   - Long I, sync on the IV and V. Big hits.
+  - https://www.youtube.com/watch?v=peJiZANKMzE
 4. Mojo - *E*
   - Muddy Waters
   - Like the piano intro...
+  - https://www.youtube.com/watch?v=8hEYwk0bypY
 5. Empty Arms - *C*
   - Stevie Ray Vaughn
+  - Straight 6's
+  - https://www.youtube.com/watch?v=8s-KJsBmO60
 6. The House is Rockin' - *E*
   - Stevie Ray Vaughn
   - Straight up rocker.
+  - Main riff is the intro.
+  - https://www.youtube.com/watch?v=-G84P5K-W1c
 7. Let the Good Times Roll - *A*
   - Koko Taylor
   - Big vocal intro
+  - https://www.youtube.com/watch?v=jDUc366ry0M
 8. Whoo Wee - *G*
   - Katie Webster
   - 50's shuffle. Standard 1-4-5.
+  - Everybody starts together.
+  - https://www.youtube.com/watch?v=ZBWp8fn30u8
 9. Pride & Joy - *E*
   - Stevie Ray Vaughn
+  - https://www.youtube.com/watch?v=0vo23H9J8o8
 
 # Slow Blues
 -----
@@ -41,9 +52,11 @@
 2. Mother Nature - *E*
   - Koko Taylor
   - Long I, stomp.
+  - https://www.youtube.com/watch?v=A_1KHM6lgpg
 3. In the Mood - *E*
   - John Lee Hooker
-  - Standard Hooker boogie. Vocal starts on the 4?
+  - Standard Hooker boogie. Stays on the 1
+  - https://www.youtube.com/watch?v=qw-bvvDfAjs
 4. Little Red Rooster - *A*
   - Luther Allison
   - Intro lick in A, vocals start on the 4.
