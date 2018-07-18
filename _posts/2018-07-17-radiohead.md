@@ -38,7 +38,7 @@ Most of the time, this would be the moment where one of us would go grab some dr
 
 Let me start off by saying I had no idea what to expect. But, these guys were great. The drummer on stage right was by far my favorite to watch. The guy had presence and talent, and a warm sense of humor.
 
-The music was fantastic. Read up on these guys here: LINK and check out the music they made for the documentary [Junun][928d31a8].
+The music was fantastic. Read up on these guys here: LINK and check out the music they made for the documentary [Junun.][928d31a8]
 
   [928d31a8]: https://itunes.apple.com/US/movie/id1059186593 "Junun - Genre: Music Documentaries
 Released: 2015"
