@@ -88,28 +88,36 @@
   - https://www.youtube.com/watch?v=t6z1iI4gu6I
 11. Champagne & Reefer - *G*
   - Muddy Waters
-  - Long 1, follows vocal.
+  - Long 1, follows vocal. Vocal comes in on the 4.
   - Old school blues.
+  - https://www.youtube.com/watch?v=oHowqKYSXNI
 
 # Medium Blues
 -----
 
 1. Down Home Blues - *A*
   - Slow burn. Shuffle.
+  -
   - Denise LaSalle?
+  - https://www.youtube.com/watch?v=KcBhRZaAX1M
 2. While you been stepping out - *G*
   - Denise LaSalle?
+  - Long 1 intro, play on the 4rth string. Funky. Hammer-on from 1 step below.
+  - https://www.youtube.com/watch?v=zfw5mB3aaR0
 3. Wang Dang Doodle - *C*
   - Stays on the 1. Same riff throughout.
+  - https://www.youtube.com/watch?v=_w6IY0v-0pA
 4. What Came First - *B*
-  - Not sure what this song is, can't seem to find it.
+  - Standard blues rock. Bottom heavy riff on the 1.
+  - https://www.youtube.com/watch?v=25cY5KSzYS4
 5. Baby What You Want - *E*
   - Etta James?
-  -
+  - Shuffle. Dirty.
+  - https://www.youtube.com/watch?v=5m-a00sSkzY
 6. Night Time is the Right Time - *D*
-  - Starts from the 5.
+  - Starts from the 5. No turnaround.
   - Ray Charles
-  -
+  - https://www.youtube.com/watch?v=BTruv-lVoLk
 7. Rock Me Baby - *C*
 8. Whole Lotta Shakin - *B flat*
 9. Born Under A Bad Sign - *C# minor*
@@ -120,11 +128,13 @@
   - Tremolo, Vibrato effect for this one.
 11. Voodoo Woman - *B Flat*
   - Koko Taylor
-  - Funky upbox groove.
+  - Funky upbox groove. No turnaround.
   - Durning some verses, stay on the 1 longer. Watch Bambi.
+  - https://www.youtube.com/watch?v=5F3mFp4vWGU
 12. I Got All You Need - *B Flat*
   - Willie Dixon / Koko Taylor
   - Medium Upbox / Horn parts lean into the correct pitch.
+  - https://www.youtube.com/watch?v=HoQ9AMBgeNo
 13. She Caught The Katy - *B*
   - Taj Mahal?
   - No 7th chords. Downstokes.
@@ -136,7 +146,8 @@
   - 50's rock.
 15. Me and My gin - *C*
   - Dinah Washington
-  - 50's shuffle. Keep it simple.
+  - 50's shuffle. Keep it simple. Quick change.
+  - https://www.youtube.com/watch?v=NrUmthVOgrw
 16. Evil Gal Blues - *C*
   - Aretha!
   - Shuffle, 1,4,6,5 pattern.
@@ -149,18 +160,23 @@
 18. Mercury Blues - *E*
   - 1, 4, 6, 5, 1 turnaround.
 19. Never Make Your Move - *F*
-  - BB King
+  - BB King ( 1, 4, 1, 4, 2, 4, 1)
   - Funky, vamps between F and B. Goes down to the G, then up to B for the turn around.
+  - https://www.youtube.com/watch?v=GGc3O2aRuOc
 20. Kiss - *E*
   - Luck Peterson
   - Prince Cover
   - Stomp, 1-4-5. Slide, if you wanna.
   - Follow the vocal.
+  - https://www.youtube.com/watch?v=CNURCSFSGtw
 21. Boom Boom - *E*
   - John Lee Hooker
-22. Meet Me With Your Black Drawers On - *???*
+22. Meet Me With Your Black Drawers On - *F*
   - Shuffle
+  - Bessie Smith?
+  - https://www.youtube.com/watch?v=7HK3uptuWE4
 23. I Just Want To Make Love To You - *B flat*
   - Etta James
   - Doesn't go to the 5 until last part of chorus
+  - https://www.youtube.com/watch?v=RJiL5siOqqw
 30. Unchain My Heart - *C minor*
